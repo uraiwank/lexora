@@ -14,7 +14,6 @@ export default function DecksPage() {
         English
       </div>
 
-      <BottomNav />
     </main>
   );
 }
